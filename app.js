@@ -2,14 +2,14 @@
 
 // Customize these configuration settings:
 var config = {
-  // - Your app's id on moneypot.com
-  app_id: 2752,                             // <----------------------------- EDIT ME!
-  // - Displayed in the navbar
-  app_name: 'Win Dice',
-  // - For your faucet to work, you must register your site at Recaptcha
-  // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LcU3RkUAAAAAAiJdJvOmUYCb6_RPLwYR07NyW7u',  // <----- EDIT ME!
-  redirect_uri: 'https://untitled-dice.github.io',
+    // - Your app's id on moneypot.com
+    app_id: 2752,                            // <----------------------------- EDIT ME!
+    // - Displayed in the navbar
+    app_name: 'Win Dice',
+    // - For your faucet to work, you must register your site at Recaptcha
+    // - https://www.google.com/recaptcha/intro/index.html
+    recaptcha_sitekey: '6LcU3RkUAAAAAAiJdJvOmUYCb6_RPLwYR07NyW7u',  // <----- EDIT ME!
+  redirect_uri: 'https://javajohnhub.github.io/javajohnhub-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
@@ -25,6 +25,7 @@ var config = {
   // - The amount of bets to show on screen in each tab
   bet_buffer_size: 25
 };
+
 
 ////////////////////////////////////////////////////////////
 // You shouldn't have to edit anything below this line
