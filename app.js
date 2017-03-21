@@ -1,7 +1,7 @@
 // Untitled Dice v0.0.8
 
 // Customize these configuration settings:
-
+import React from 'react';
 var config = {
   // - Your app's id on moneypot.com
   app_id: 18,                             // <----------------------------- EDIT ME!
