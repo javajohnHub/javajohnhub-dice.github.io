@@ -8,7 +8,7 @@ var config = {
     app_name: 'Win Dice',
     // - For your faucet to work, you must register your site at Recaptcha
     // - https://www.google.com/recaptcha/intro/index.html
-    recaptcha_sitekey: '6LcU3RkUAAAAAAiJdJvOmUYCb6_RPLwYR07NyW7u',  // <----- EDIT ME!
+    recaptcha_sitekey: '6LdBzxkUAAAAAE_4St3qI1b2AA7nAgzEAd1MYVBq',  // <----- EDIT ME!
   redirect_uri: 'https://javajohnhub.github.io/javajohnhub-dice.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
